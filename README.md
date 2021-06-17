@@ -39,11 +39,11 @@ Used JavaScript, PHP,HTML,CSS and MySQL to create a web based Spotify clone whic
 
 ![spotify](https://github.com/bhanupratap78/Spotify_Clone/blob/master/assets/demo/3.png)
 
-# Frontend Languages Used
+## Frontend Languages Used
 - HTML
 - CSS
 - JavaScript
 - JQuery
 
-# Motivation
+## Motivation
 This project was created by me mainly to teach myself JavaScript, PHP,HTML,CSS and MySQL. Since the point of this project was not to make great UI/UX design choices, I chose to create a clone of a well established product as to shorten my learning time and not to focus on the wrong thing. Since I am already a heavy Spotify user and therefore I thought it would be an interesting challenge to tackle.
