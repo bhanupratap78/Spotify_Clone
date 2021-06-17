@@ -6,9 +6,9 @@ Used JavaScript, PHP,HTML,CSS and MySQL to create a web based Spotify clone whic
   ![register](https://github.com/bhanupratap78/Spotify_Clone/blob/master/assets/demo/4.png)
 
 ## Table of Content
-- [Installation]
-- [Tech/Frontend Languages Used]
-- [Motivation]
+- [Installation](#Installatio)
+- [Frontend Languages Used](#Frontend Languages Used)
+- [Motivation](#Motivation)
 
 ## Installation
 - Download XAMPP for the respective version of OS from https://www.apachefriends.org/index.html.
@@ -39,7 +39,7 @@ Used JavaScript, PHP,HTML,CSS and MySQL to create a web based Spotify clone whic
 
 ![spotify](https://github.com/bhanupratap78/Spotify_Clone/blob/master/assets/demo/3.png)
 
-# Tech/Frontend Languages Used
+# Frontend Languages Used
 - HTML
 - CSS
 - JavaScript
