@@ -2,6 +2,7 @@
 Used JavaScript, PHP,HTML,CSS and MySQL to create a web based Spotify clone which allows users to listen to music , create playlists , search for music and view custom made playlists specific to their taste.
 
 - Working Version of Full Stack Spotify Clone build using HTML5, CSS, jQuery/Ajax and PHP.
+
   ![register](https://github.com/bhanupratap78/Spotify_Clone/blob/master/assets/demo/4.png)
 
 - Download XAMPP for the respective version of OS from https://www.apachefriends.org/index.html.
