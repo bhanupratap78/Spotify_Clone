@@ -13,7 +13,7 @@ Used JavaScript, PHP,HTML,CSS and MySQL to create a web based Spotify clone whic
 
   - Under the Network tab, click Enable.
 
-   (This would start the local server at port 8080 on your machine)
+    (This would start the local server at port 8080 on your machine)
 
   - Under the volume tab, click Mount
 
