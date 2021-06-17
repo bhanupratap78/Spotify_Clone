@@ -7,7 +7,7 @@ Used JavaScript, PHP,HTML,CSS and MySQL to create a web based Spotify clone whic
 
 ## Table of Content
 - [Installation](#Installatio)
-- [Frontend Languages Used](#Frontend-Languages-Used)
+- [Frontend And Backend Languages Used](#Frontend-And-Backend-Languages-Used)
 - [Motivation](#Motivation)
 
 ## Installation
